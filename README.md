@@ -12,6 +12,19 @@ I care about products that are practical, explainable, and actually useful to th
 
 ## Featured builds
 
+### [Mensis](https://preview--pixel-moon-canvas.lovable.app/?__lovable_receipt=mat_2br5z9d9gb855tpz6xt5g68v2e)
+**A menstrual cycle you can see, hear, and feel.**
+
+Mensis is an interactive data artwork that turns cycle research into a tactile experience. Visitors move through a menstrual cycle using a ring of textured moon phases while a glass fills with an illustrative flow model, phase-aware sound translates the data into music, and an optional AI explanation connects a selected cycle day and symptoms to the displayed phase in plain, non-diagnostic language.
+
+The experience distinguishes research findings, clinical guidance, and modeled data directly in the interface. It uses mcPHASES and ACOG sources while treating the moon as a cultural metaphor—not a biological clock.
+
+**Built with:** Cala, Krea, Lovable, React/TypeScript, Web Audio, Mistral AI  
+**Privacy:** No personal cycle data is stored. Educational only; not medical advice.  
+**Hackathon preview:** https://preview--pixel-moon-canvas.lovable.app/?__lovable_receipt=mat_2br5z9d9gb855tpz6xt5g68v2e
+
+---
+
 ### [COMBED](https://github.com/Jadamylan/COMBED)
 **Appointment-book intelligence for independent hairstylists.**
 
@@ -117,6 +130,7 @@ I’m especially interested in analytics, AI products, workforce tools, educatio
 
 ## See the work live
 
+- [Mensis](https://preview--pixel-moon-canvas.lovable.app/?__lovable_receipt=mat_2br5z9d9gb855tpz6xt5g68v2e) — interactive menstrual-cycle data artwork
 - [BenchBridge](https://benchbridge-liard.vercel.app) — skills-first workforce matching
 - [Balancing Beam of Performance](https://jadamylan.github.io/balancing-beam-of-performance/) — statistical case study
 - [What Makes a Good Wine?](https://jadamylan.github.io/wine-quality-analysis/) — interactive statistics portfolio
