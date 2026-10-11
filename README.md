@@ -21,7 +21,7 @@ The experience distinguishes research findings, clinical guidance, and modeled d
 
 **Built with:** Cala, Krea, Lovable, React/TypeScript, Web Audio, Mistral AI  
 **Privacy:** No personal cycle data is stored. Educational only; not medical advice.  
-**Hackathon preview:** https://preview--pixel-moon-canvas.lovable.app/?__lovable_receipt=mat_2br5z9d9gb855tpz6xt5g68v2e
+**Live experience:** https://pixel-moon-canvas.lovable.app
 
 ---
 
@@ -130,7 +130,7 @@ I’m especially interested in analytics, AI products, workforce tools, educatio
 
 ## See the work live
 
-- [Mensis](https://preview--pixel-moon-canvas.lovable.app/?__lovable_receipt=mat_2br5z9d9gb855tpz6xt5g68v2e) — interactive menstrual-cycle data artwork
+- [Mensis](https://pixel-moon-canvas.lovable.app) — interactive menstrual-cycle data artwork
 - [BenchBridge](https://benchbridge-liard.vercel.app) — skills-first workforce matching
 - [Balancing Beam of Performance](https://jadamylan.github.io/balancing-beam-of-performance/) — statistical case study
 - [What Makes a Good Wine?](https://jadamylan.github.io/wine-quality-analysis/) — interactive statistics portfolio
