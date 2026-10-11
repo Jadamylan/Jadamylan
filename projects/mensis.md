@@ -4,7 +4,7 @@
 
 Mensis is an interactive data artwork created for a one-day creative data hackathon. It translates menstrual-cycle research into a calm, tactile experience: the moon becomes the clock, a glass becomes the measure, and sound becomes another way to perceive change over time.
 
-[Open the hackathon preview](https://preview--pixel-moon-canvas.lovable.app/?__lovable_receipt=mat_2br5z9d9gb855tpz6xt5g68v2e)
+[Open Mensis](https://pixel-moon-canvas.lovable.app)
 
 ## The idea
 
