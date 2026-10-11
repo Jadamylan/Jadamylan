@@ -12,7 +12,7 @@ I care about products that are practical, explainable, and actually useful to th
 
 ## Featured builds
 
-### [Mensis](https://preview--pixel-moon-canvas.lovable.app/?__lovable_receipt=mat_2br5z9d9gb855tpz6xt5g68v2e)
+### [Mensis](https://github.com/Jadamylan/Jadamylan/blob/main/projects/mensis.md)
 **A menstrual cycle you can see, hear, and feel.**
 
 Mensis is an interactive data artwork that turns cycle research into a tactile experience. Visitors move through a menstrual cycle using a ring of textured moon phases while a glass fills with an illustrative flow model, phase-aware sound translates the data into music, and an optional AI explanation connects a selected cycle day and symptoms to the displayed phase in plain, non-diagnostic language.
