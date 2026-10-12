@@ -4,7 +4,7 @@
 
 I like building useful things from messy real-world problems — especially where data, AI, product thinking, and human behavior overlap.
 
-My background is in analytics, statistics, and data visualization. Lately, I’ve been taking that same way of thinking into product builds: turning handwritten appointment books into business intelligence, exploring face-to-face translation on new hardware, modeling workforce pathways as graphs, and creating reusable security standards for AI-assisted development.
+My background is in analytics, statistics, and data visualization. Lately, I’ve been taking that same way of thinking into product builds: turning handwritten appointment books into business intelligence, exploring face-to-face translation on new hardware, building workforce matching tools, and creating reusable security standards for AI-assisted development.
 
 I care about products that are practical, explainable, and actually useful to the person on the other side of the screen.
 
@@ -22,6 +22,16 @@ The experience distinguishes research findings, clinical guidance, and modeled d
 **Built with:** Cala, Krea, Lovable, React/TypeScript, Web Audio, Mistral AI  
 **Privacy:** No personal cycle data is stored. Educational only; not medical advice.  
 **Live experience:** https://pixel-moon-canvas.lovable.app
+
+---
+
+### [Jada Data Stack](https://github.com/Jadamylan/jada-data-helper)
+**My interactive toolkit for the tools I use to build, analyze, automate, and ship.**
+
+Jada Data Stack is a centralized resource hub for the apps, platforms, and developer tools I use across data analysis, AI building, automation, product development, and deployment. It organizes the stack by what each tool is best for so I can quickly choose the right tool for the job and share the same resource with other builders.
+
+**Built with:** Lovable, TanStack Start, TypeScript  
+**Live site:** https://jada-data-stack.lovable.app
 
 ---
 
@@ -53,9 +63,9 @@ The hackathon MVP focuses on English ↔ Español communication in a healthcare 
 
 BenchBridge explores workforce matching by starting with a worker’s real skills, certifications, experience, location, and requirement gaps instead of just a job title.
 
-The prototype uses a graph model to connect workers with programs, employers, project signals, and realistic next steps.
+The prototype connects workers with programs, employers, project signals, and realistic next steps based on the skills and requirements that matter for each opportunity.
 
-**Built with:** Neo4j, Cypher, TypeScript/JavaScript, structured public-source research  
+**Built with:** TypeScript/JavaScript, structured public-source research  
 **Live demo:** https://benchbridge-liard.vercel.app
 
 ---
@@ -101,13 +111,6 @@ to:
 
 ---
 
-## Technical experiments
-
-### [Monorepo Context Graph + Dagger](https://github.com/Jadamylan/jfrog-neo4j-swampup-2026)
-A CI experiment using Neo4j to model dependency relationships and content hashes to decide what work actually needs to run after a code change — then recording the selection rationale as evidence.
-
----
-
 ## Also building
 
 **Jasiri Coder** — a math and coding tutoring business I co-founded. I’m building the product layer around it, including student skill diagnostics, tutor workflows, and tools that help us scale beyond one-on-one tutoring without losing the human handoff.
@@ -130,6 +133,7 @@ I’m especially interested in analytics, AI products, workforce tools, educatio
 
 ## See the work live
 
+- [Jada Data Stack](https://jada-data-stack.lovable.app) — interactive toolkit for my data, AI, automation, and build stack
 - [Mensis](https://pixel-moon-canvas.lovable.app) — interactive menstrual-cycle data artwork
 - [BenchBridge](https://benchbridge-liard.vercel.app) — skills-first workforce matching
 - [Balancing Beam of Performance](https://jadamylan.github.io/balancing-beam-of-performance/) — statistical case study
